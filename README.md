@@ -1,4 +1,4 @@
-#SEPHORA SKINCARE API
+# SEPHORA SKINCARE API
 
 Simple API that returns the skincare products that are currently on the Sephora Website.
 
